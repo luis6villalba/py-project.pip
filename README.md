@@ -10,8 +10,8 @@ luego inicialice el juego (python main.py)
 # App Project
 
 ```sh
-Para utilizar la carpeta app primero debes clonar el repositorio(git clone)
-luego te dirigen a la carpeta app (cd app)
+Para utilizar la carpeta app primero debes clonar el repositorio (git clone)
+luego te diriges a la carpeta app (cd app)
 abres un entorno virtual en tu computadora (python3 -m venv env)
 activas el entorno virtual (source env/Scripts/activate)
 instala las dependencias del proyecto (pip3 install -r requirements.txt)
